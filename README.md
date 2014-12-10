@@ -5,9 +5,9 @@ Love2d Game
 
 Sprint 1
 ========
-Load map
-Load Character
-Load Keypress events
+- Load map
+- Load Character
+- Load Keypress events
 
 Sprint 2
 ========
